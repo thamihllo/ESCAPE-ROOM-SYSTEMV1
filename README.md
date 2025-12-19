@@ -9,12 +9,12 @@ Projeto de **aplicação web completa** para gerenciamento de um **Escape Room**
 ## 🌐 Deploy da Aplicação
 
 **Frontend (Produção):**
-🔗 Vercel: [Insira seu link aqui]
+🔗 Vercel: [(https://escape-room-system.vercel.app/)]
 
 
 ## 📦 Repositórios
 
-**Frontend (ReactJS):** 🔗 [Insira o link do seu repositório GitHub aqui]
+**Frontend (ReactJS):** 🔗 [https://github.com/thamihllo/ESCAPE-ROOM-SYSTEMV1]
 
 ---
 
@@ -91,23 +91,30 @@ O projeto atende integralmente aos desafios de lógica e interface, incluindo:
 As telas abaixo ilustram as principais funcionalidades do sistema.
 
 **Tela 1 — Dashboard Analítico**
+
 ![Dashboard](./assets/Dash.imagem.png)
 
 **Tela 2 — Agendamento Inteligente**
+
 ![Agendamentos](./assets/agendamentos.imagem.png)
 
 **Tela 3 — Gerenciamento de Salas**
+
 ![Salas](./assets/Sala.imagem.png)
 
 **Tela 4 — Gestão de Equipes**
+
 ![Equipes](./assets/equipes.imagem.png)
----
+
 
 🧠 Modelagem dos Dados
 
 📌 Diagrama de Classes
 
 O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto, servindo como base para o Backend/LocalStorage e para o consumo no FrontEnd.
+
+
+
 ![classes](./public/classes.imag.png)
 
 
