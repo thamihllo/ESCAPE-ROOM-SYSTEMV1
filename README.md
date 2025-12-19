@@ -1,5 +1,5 @@
 
-# 🧩 Escape Room — Manager System v2.0
+# 🧩 Escape Room — Manager System
 
 Frontend em React (Vite) + Ant Design + JavaScript (ESM)
 Projeto de **aplicação web completa** para gerenciamento de um **Escape Room**, contemplando CRUDs de **Agendamentos**, **Salas** e **Equipes**, além de um **Dashboard Analítico** com validações de conflito de horário e persistência via **LocalStorage**.
@@ -122,7 +122,7 @@ O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto
 
 ### 📂 Estrutura de Pastas
 
-
+```text
 projeto/
 ├── public/
 │   ├── classes.imag.png
@@ -143,46 +143,35 @@ projeto/
 ├── package.json
 ├── README.md
 └── vite.config.js
-
 ▶️ Execução Local
 
 Bash
 
-
 # Instalar dependências
 npm install
-
 # Rodar o projeto
 npm run dev
 
 
-
-🎯 Objetivos de Aprendizado
+## 🎯 Objetivos de Aprendizado
 
 Este projeto permite praticar:
 
-Organização modular com React
+* **Organização modular** com React
+* **Uso avançado de hooks** (`useState`, `useEffect`, `useMemo`)
+* **Componentização profissional** com Ant Design
+* **Implementação de Lógica de Negócio complexa** no Frontend (Validação de datas e conflitos)
+* **Persistência de dados** utilizando `LocalStorage` e padrão DAO
+* **Manipulação de datas** com Day.js
 
-Uso avançado de hooks (useState, useEffect, useMemo)
+---
 
-Componentização profissional com Ant Design
+## 👥 Autoria
 
-Implementação de Lógica de Negócio complexa no Frontend (Validação de datas e conflitos)
+👤 Autor:Thamires Fernandes Borges
 
-Persistência de dados utilizando LocalStorage e padrão DAO
+   Projeto:Escape Room Manager System V1
 
-Manipulação de datas com Day.js
+   Área:Desenvolvimento FrontEnd
 
-
-
-
-👥 Autoria
-
-Autor: Thamires Fernandes Borges
-
-Projeto: Escape Room Manager System v2.0
-
-Área: Desenvolvimento FrontEnd
-
-Instituição: Instituto Federal de Brasília (IFB)
-
+🎓 Instituição: Instituto Federal de Brasília (IFB)
