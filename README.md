@@ -120,20 +120,20 @@ O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto
 
 
 
-📁 Estrutura de Pastas
-Bash
+### 📂 Estrutura de Pastas
+
 
 projeto/
 ├── public/
-    └──classes.imag.png
+│   ├── classes.imag.png
 │   └── vite.svg
 ├── src/
-│   ├── assets/          # Imagens do sistema
-│   ├── components/      # Componentes visuais (CrudTable, Cards)
-│   ├── daos/            # Lógica de persistência (LocalStorageDAO)
-│   ├── pages/           # Telas (Dashboard, Salas, Agendamentos...)
+│   ├── assets/            # Imagens do sistema
+│   ├── components/        # Componentes visuais (CrudTable, Cards)
+│   ├── daos/              # Lógica de persistência (LocalStorageDAO)
+│   ├── pages/             # Telas (Dashboard, Salas, Agendamentos...)
 │   ├── App.css
-│   ├── App.jsx          # Rotas e Layout
+│   ├── App.jsx            # Rotas e Layout
 │   ├── index.css
 │   └── main.jsx
 ├── .gitignore
@@ -155,6 +155,8 @@ npm install
 # Rodar o projeto
 npm run dev
 
+
+
 🎯 Objetivos de Aprendizado
 
 Este projeto permite praticar:
@@ -170,6 +172,8 @@ Implementação de Lógica de Negócio complexa no Frontend (Validação de data
 Persistência de dados utilizando LocalStorage e padrão DAO
 
 Manipulação de datas com Day.js
+
+
 
 
 👥 Autoria
