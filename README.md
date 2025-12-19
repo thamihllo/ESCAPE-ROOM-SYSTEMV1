@@ -119,9 +119,8 @@ O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto
 
 
 
+
 📁 Estrutura de Pastas
-
-
 Bash
 
 projeto/
@@ -144,9 +143,11 @@ projeto/
 ├── package.json
 ├── README.md
 └── vite.config.js
+
 ▶️ Execução Local
 
 Bash
+
 
 # Instalar dependências
 npm install
@@ -174,6 +175,10 @@ Manipulação de datas com Day.js
 👥 Autoria
 
 Autor: Thamires Fernandes Borges
+
 Projeto: Escape Room Manager System v2.0
+
 Área: Desenvolvimento FrontEnd
+
 Instituição: Instituto Federal de Brasília (IFB)
+
