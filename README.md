@@ -141,7 +141,8 @@ projeto/
 ├── package-lock.json
 ├── package.json
 ├── README.md
-└── vite.config.js ``` 
+└── vite.config.js
+```
 
 
 
@@ -170,10 +171,14 @@ Persistência de dados utilizando LocalStorage e padrão DAO
 Manipulação de datas com Day.js
 
 👥 Autoria
-🎓 Instituição: Instituto Federal de Brasília (IFB)
-👤 Autor: Thamires Fernandes Borges
-    Projeto: Escape Room Manager SystemV1
-    Área: Desenvolvimento FrontEnd
+
+ Projeto: Escape Room Manager SystemV1
+ 
+ Área: Desenvolvimento FrontEnd
+ 
+ 🎓 Instituição: Instituto Federal de Brasília (IFB)
+ 
+ 👤 Autor: Thamires Fernandes Borges
 
 
 
