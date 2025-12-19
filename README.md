@@ -141,9 +141,9 @@ projeto/
 ├── package-lock.json
 ├── package.json
 ├── README.md
-└── vite.config.js
+└── vite.config.js ``` 
 
-` ``` `
+
 
 ▶️ Execução Local
 Bash
