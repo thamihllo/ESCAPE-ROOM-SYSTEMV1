@@ -45,11 +45,17 @@ Projeto de **aplicação web completa** para gerenciamento de um **Escape Room**
 O projeto atende integralmente aos desafios de lógica e interface, incluindo:
 
 ✅ **Dashboard Interativo** com KPIs financeiros
+
 ✅ **CRUD de Salas** com precificação dinâmica
+
 ✅ **CRUD de Equipes** com controle de participantes
+
 ✅ **Smart Booking** (Sistema que impede choque de horários)
+
 ✅ **Robô de Limpeza** (Atualização automática de status de reservas passadas)
+
 ✅ **Persistência em LocalStorage** com padrão DAO
+
 
 ---
 
