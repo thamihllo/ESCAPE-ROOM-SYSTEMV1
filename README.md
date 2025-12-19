@@ -119,8 +119,6 @@ O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto
 
 
 
-
-
 ### 📂 Estrutura de Pastas
 
 ```text
@@ -129,12 +127,12 @@ projeto/
 │   ├── classes.imag.png
 │   └── vite.svg
 ├── src/
-│   ├── assets/            # Imagens do sistema
-│   ├── components/        # Componentes visuais (CrudTable, Cards)
-│   ├── daos/              # Lógica de persistência (LocalStorageDAO)
-│   ├── pages/             # Telas (Dashboard, Salas, Agendamentos...)
+│   ├── assets/            
+│   ├── components/        
+│   ├── daos/              
+│   ├── pages/             
 │   ├── App.css
-│   ├── App.jsx            # Rotas e Layout
+│   ├── App.jsx            
 │   ├── index.css
 │   └── main.jsx
 ├── .gitignore
@@ -145,24 +143,18 @@ projeto/
 ├── README.md
 └── vite.config.js
 
+` ``` `
 
 ▶️ Execução Local
-Para rodar o projeto na sua máquina, siga os passos abaixo:
-
-1. Instalar dependências
-
 Bash
 
+# Instalar dependências
 npm install
-2. Rodar o projeto
 
-Bash
-
+# Rodar o projeto
 npm run dev
 
-
 🎯 Objetivos de Aprendizado
-
 Este projeto permite praticar:
 
 Organização modular com React
@@ -178,12 +170,12 @@ Persistência de dados utilizando LocalStorage e padrão DAO
 Manipulação de datas com Day.js
 
 👥 Autoria
-
 🎓 Instituição: Instituto Federal de Brasília (IFB)
-
-   Projeto: Escape Room Manager System V1 Área: Desenvolvimento FrontEnd
-
 👤 Autor: Thamires Fernandes Borges
+    Projeto: Escape Room Manager SystemV1
+    Área: Desenvolvimento FrontEnd
+
+
 
 
 
