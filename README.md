@@ -120,6 +120,7 @@ O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto
 
 
 
+
 ### 📂 Estrutura de Pastas
 
 ```text
@@ -143,35 +144,46 @@ projeto/
 ├── package.json
 ├── README.md
 └── vite.config.js
+
+
 ▶️ Execução Local
+Para rodar o projeto na sua máquina, siga os passos abaixo:
+
+1. Instalar dependências
 
 Bash
 
-# Instalar dependências
 npm install
-# Rodar o projeto
+2. Rodar o projeto
+
+Bash
+
 npm run dev
 
 
-## 🎯 Objetivos de Aprendizado
+🎯 Objetivos de Aprendizado
 
 Este projeto permite praticar:
 
-* **Organização modular** com React
-* **Uso avançado de hooks** (`useState`, `useEffect`, `useMemo`)
-* **Componentização profissional** com Ant Design
-* **Implementação de Lógica de Negócio complexa** no Frontend (Validação de datas e conflitos)
-* **Persistência de dados** utilizando `LocalStorage` e padrão DAO
-* **Manipulação de datas** com Day.js
+Organização modular com React
 
----
+Uso avançado de hooks (useState, useEffect, useMemo)
 
-## 👥 Autoria
+Componentização profissional com Ant Design
 
-👤 Autor:Thamires Fernandes Borges
+Implementação de Lógica de Negócio complexa no Frontend (Validação de datas e conflitos)
 
-   Projeto:Escape Room Manager System V1
+Persistência de dados utilizando LocalStorage e padrão DAO
 
-   Área:Desenvolvimento FrontEnd
+Manipulação de datas com Day.js
+
+👥 Autoria
 
 🎓 Instituição: Instituto Federal de Brasília (IFB)
+
+   Projeto: Escape Room Manager System V1 Área: Desenvolvimento FrontEnd
+
+👤 Autor: Thamires Fernandes Borges
+
+
+
